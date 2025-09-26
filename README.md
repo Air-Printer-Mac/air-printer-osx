@@ -1,4 +1,4 @@
-# Air Printer Mac – Easy Wireless Printing for macOS  
+# Air Printer Mac – Easy Wireless Printing OSX  
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 ---
 
-## What is Air Printer Mac?  
+## What is Air Printer?  
 
 **Air Printer Mac** is Apple’s built-in printing technology designed to let you print from your Mac without complicated configurations. Instead of hunting for drivers or relying on USB connections, AirPrint detects supported printers on your Wi-Fi network and allows you to send files directly for printing.  
 
